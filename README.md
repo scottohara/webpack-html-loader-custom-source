@@ -1,3 +1,5 @@
+See: https://github.com/webpack-contrib/html-loader/issues/405
+
 This repository is intended to demonstrate a possible bug (or documentation error) when using `html-loader` and extending the default sources with a custom `option.sources.list`.
 
 # Documentation
